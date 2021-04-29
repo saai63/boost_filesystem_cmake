@@ -1,0 +1,81 @@
+[submodule "winapi"]
+	path = winapi
+	url = https://github.com/boostorg/winapi.git
+[submodule "assert"]
+	path = assert
+	url = https://github.com/boostorg/assert.git
+[submodule "concept_check"]
+	path = concept_check
+	url = https://github.com/boostorg/concept_check.git
+[submodule "config"]
+	path = config
+	url = https://github.com/boostorg/config.git
+[submodule "container_hash"]
+	path = container_hash
+	url = https://github.com/boostorg/container_hash
+[submodule "conversion"]
+	path = conversion
+	url = https://github.com/boostorg/conversion.git
+[submodule "core"]
+	path = core
+	url = https://github.com/boostorg/core.git
+[submodule "detail"]
+	path = detail
+	url = https://github.com/boostorg/detail.git
+[submodule "filesystem"]
+	path = filesystem
+	url = https://github.com/boostorg/filesystem.git
+[submodule "function_types"]
+	path = function_types
+	url = https://github.com/boostorg/function_types.git
+[submodule "fusion"]
+	path = fusion
+	url = https://github.com/boostorg/fusion.git
+[submodule "integer"]
+	path = integer
+	url = https://github.com/boostorg/integer.git
+[submodule "io"]
+	path = io
+	url = https://github.com/boostorg/io.git
+[submodule "iterator"]
+	path = iterator
+	url = https://github.com/boostorg/iterator.git
+[submodule "move"]
+	path = move
+	url = https://github.com/boostorg/move.git
+[submodule "mpl"]
+	path = mpl
+	url = https://github.com/boostorg/mpl.git
+[submodule "optional"]
+	path = optional
+	url = https://github.com/boostorg/optional.git
+[submodule "predef"]
+	path = predef
+	url = https://github.com/boostorg/predef
+[submodule "preprocessor"]
+	path = preprocessor
+	url = https://github.com/boostorg/preprocessor
+[submodule "smart_ptr"]
+	path = smart_ptr
+	url = https://github.com/boostorg/smart_ptr
+[submodule "static_assert"]
+	path = static_assert
+	url = https://github.com/boostorg/static_assert
+[submodule "system"]
+	path = system
+	url = https://github.com/boostorg/system
+[submodule "throw_exception"]
+	path = throw_exception
+	url = https://github.com/boostorg/throw_exception
+[submodule "tuple"]
+	path = tuple
+	url = https://github.com/boostorg/tuple
+[submodule "typeof"]
+	path = typeof
+	url = https://github.com/boostorg/typeof
+[submodule "type_traits"]
+	path = type_traits
+	url = https://github.com/boostorg/type_traits
+[submodule "utility"]
+	path = utility
+	url = https://github.com/boostorg/utility
